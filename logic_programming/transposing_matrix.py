@@ -12,3 +12,5 @@ print(transposed)
 #Second method
 T = [[x[j][i] for j in range(len(x))] for i in range(len(x[0]))]
 print(T)
+
+
